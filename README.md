@@ -1,8 +1,11 @@
 Candy Crush Website README
 
+Screen-reccording link:[screen reccording candy crush.zip](https://github.com/user-attachments/files/16058757/screen.reccording.candy.crush.zip)
+
 Overview
 
 This project is a web-based version of the popular Candy Crush game, built using HTML, CSS, and JavaScript. 
+
 It allows players to swap colorful candies to create sets of three in a row to clear them from the board.
 
 Getting Started
