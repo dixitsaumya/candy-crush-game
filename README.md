@@ -1,5 +1,19 @@
 Candy Crush Website README
 
+##Author
+
+||** Tranning project (Batch-2)**
+
+|| -Shikha Tripathi
+Roll Number: 23071003604
+
+|| - Saumya Dixit
+Roll Number: 23071003586
+
+|| - Shafquat Umam
+Roll Number: 23071003593
+
+
 Screen-reccording link:[screen reccording candy crush.zip](https://github.com/user-attachments/files/16058757/screen.reccording.candy.crush.zip)
 
 Overview
